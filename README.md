@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-访问地址：https://YOUR_USERNAME.github.io/image-compressor/
+访问地址：https://noellenaa.github.io/image-compressor/
 
 ## 功能特点
 
